@@ -1,0 +1,17 @@
+.stats__dropdown-users {
+  list-style: none;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  padding: 10px;
+  li {
+    margin-bottom: 5px;
+    display: flex;
+    gap: 5px;
+    .user-ava {
+      color: greenyellow;
+    }
+    .user-name {
+      color: blue;
+    }
+  }
+}

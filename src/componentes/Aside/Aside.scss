@@ -1,0 +1,13 @@
+.aside {
+  padding: 0 15px;
+  grid-area: aside;
+  .aside-link {
+    margin-bottom: 12px;
+    .aside-icon {
+      width: 18px;
+      height: 18px;
+      margin-right: 10px;
+    }
+  }
+
+}

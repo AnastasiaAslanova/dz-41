@@ -1,0 +1,29 @@
+
+.header {
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  background: darkslateblue;
+  color: #fff;
+  grid-area: header;
+  justify-content: space-between;
+  .burger {
+    width: 28px;
+    height: 28px;
+    fill: #fff;
+  }
+  .icons {
+
+    .userAva {
+      width: 18px;
+      height: 18px;
+      margin: 0 15px;
+    }
+    .arow {
+      width: 18px;
+      height: 18px;
+      margin: 0 15px;
+    }
+  }
+  }
