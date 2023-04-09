@@ -30,6 +30,7 @@ p {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-gap: 30px;
+  position: relative;
   grid-template-areas:
           "header header header header header"
           "aside stats stats stats stats"

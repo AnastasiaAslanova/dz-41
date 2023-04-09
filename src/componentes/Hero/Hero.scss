@@ -1,5 +1,7 @@
 .hero-section {
   grid-area: hero;
+  position: absolute;
+  top: 30px;
   .hero-img {
     margin-bottom: 20px;
   }
